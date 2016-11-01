@@ -1,49 +1,4 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "@types/vega@0.0.27",
-        "scope": "@types",
-        "escapedName": "@types%2fvega",
-        "name": "@types/vega",
-        "rawSpec": "0.0.27",
-        "spec": "0.0.27",
-        "type": "version"
-      },
-      "C:\\Users\\wwigh\\Github\\glacier\\glacier\\src"
-    ]
-  ],
-  "_from": "@types/vega@0.0.27",
-  "_id": "@types/vega@0.0.27",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/@types/vega",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/vega-0.0.27.tgz_1474309047371_0.42786088376306"
-  },
-  "_npmUser": {
-    "name": "types",
-    "email": "ts-npm-types@microsoft.com"
-  },
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "@types/vega@0.0.27",
-    "scope": "@types",
-    "escapedName": "@types%2fvega",
-    "name": "@types/vega",
-    "rawSpec": "0.0.27",
-    "spec": "0.0.27",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "#DEV:/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@types/vega/-/vega-0.0.27.tgz",
-  "_shasum": "d108f614c5f41a637bbdd6b0dc9c1e8ae5b15603",
-  "_shrinkwrap": null,
-  "_spec": "@types/vega@0.0.27",
-  "_where": "C:\\Users\\wwigh\\Github\\glacier\\glacier\\src",
   "author": {
     "name": "Tom Crockett",
     "email": "http://github.com/pelotom"
@@ -52,10 +7,6 @@
   "description": "TypeScript definitions for Vega",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "d108f614c5f41a637bbdd6b0dc9c1e8ae5b15603",
-    "tarball": "https://registry.npmjs.org/@types/vega/-/vega-0.0.27.tgz"
-  },
   "license": "MIT",
   "main": "",
   "maintainers": [
@@ -69,10 +20,9 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+    "url": "https://github.com/weswigham/AtTypes-vega"
   },
   "scripts": {},
-  "typesPublisherContentHash": "c2140e8cd2f7f4671c660900d6ea21aefbf2b8f299d6f291c951548340b95c95",
   "typings": "index.d.ts",
-  "version": "0.0.27"
+  "version": "0.0.28"
 }
