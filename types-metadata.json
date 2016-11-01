@@ -1,0 +1,23 @@
+{
+    "authors": "Tom Crockett <http://github.com/pelotom>",
+    "definitionFilename": "index.d.ts",
+    "libraryDependencies": [],
+    "moduleDependencies": [],
+    "libraryMajorVersion": "0",
+    "libraryMinorVersion": "0",
+    "libraryName": "Vega",
+    "typingsPackageName": "vega",
+    "projectName": "http://trifacta.github.io/vega/",
+    "sourceRepoURL": "https://www.github.com/DefinitelyTyped/DefinitelyTyped",
+    "sourceBranch": "types-2.0",
+    "kind": "Global",
+    "globals": [
+        "vg"
+    ],
+    "declaredModules": [],
+    "files": [
+        "index.d.ts"
+    ],
+    "hasPackageJson": false,
+    "contentHash": "c2140e8cd2f7f4671c660900d6ea21aefbf2b8f299d6f291c951548340b95c95"
+}
